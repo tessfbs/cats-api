@@ -1,0 +1,27 @@
+{
+  "name": "cats-api",
+  "version": "1.0.0",
+  "description": "## /breeds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tessfbs/cats-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tessfbs/cats-api/issues"
+  },
+  "homepage": "https://github.com/tessfbs/cats-api#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0"
+  }
+}
